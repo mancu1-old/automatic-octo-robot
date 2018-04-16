@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\azen\projects\tutorials\arthur\prata\chapter2\5\source.cpp(19): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  5.vcxproj -> C:\Azen\Projects\Tutorials\Arthur\Prata\Chapter2\Debug\5.exe
+  5.vcxproj -> C:\Azen\Projects\Tutorials\Arthur\Prata\Chapter2\Debug\5.pdb (Partial PDB)

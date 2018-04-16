@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\azen\projects\tutorials\arthur\prata\chapter3\7\source.cpp(10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  7.vcxproj -> C:\Azen\Projects\Tutorials\Arthur\Prata\Chapter3\Debug\7.exe
+  7.vcxproj -> C:\Azen\Projects\Tutorials\Arthur\Prata\Chapter3\Debug\7.pdb (Partial PDB)
