@@ -6,6 +6,10 @@
           <option name="url" value="https://github.com/NYRDS/pixel-dungeon-remix.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/mancu1/automatic-octo-robot.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\zakir\StudioProjects" />
